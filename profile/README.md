@@ -4,7 +4,7 @@ The ocsf-docs repository is intended to be the location where relevant proposals
 
 The governance repo holds the governance material.
 
-[OCSF Schema](http://schema.ocsf/io)
+[OCSF Schema](http://schema.ocsf.io)
 
 <!--
 

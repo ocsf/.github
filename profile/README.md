@@ -1,8 +1,9 @@
-## Hi there 👋
+## Introduction to OCSF
 
-This document describes the Open Cybersecurity Schema Framework (OCSF) and its taxonomy, including the cybersecurity schema.  A taxonomy is a classification mechanism with conformation rules.  The OCSF is a framework for creating schemas and it also delivers a cybersecurity event schema built with the framework.
+The OCSF is a framework for creating schemas and it also delivers a cybersecurity event schema built with the framework.
 The framework is made up of a set of data types, an attribute dictionary, and the taxonomy.  The framework is not restricted to cybersecurity nor to events, however the initial focus of the framework has been a schema for cybersecurity events.  A schema browser for the cybersecurity schema can be found at schema.ocsf.io.
 OCSF is agnostic to storage format, data collection and ETL processes.  The core schema for cybersecurity events is intended to be agnostic to implementations.  The schema framework definition files and the resulting schema are written as JSON.
+For an overview of the taxonomy concepts and the schema, you may find it instructive to read the white paper in the ocsf-docs repository.
 
 [OCSF Schema](http://schema.ocsf.io)
 

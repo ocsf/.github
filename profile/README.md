@@ -6,7 +6,7 @@ The framework is made up of a set of data types, an attribute dictionary, and th
 A schema browser for the cybersecurity schema can be found at [OCSF Schema](https://schema.ocsf.io).
 
 OCSF is agnostic to storage format, data collection and ETL processes.  The core schema for cybersecurity events is intended to be agnostic to implementations.  The schema framework definition files and the resulting schema are written as JSON.
-For an overview of the taxonomy concepts and the schema, you may find it instructive to read the white paper in the ocsf-docs repository.
+Refer to the [OCSF Contribution Guide](https://github.com/ocsf/ocsf-schema/blob/ba7d1b5f642afa1f3596aaf9eece83f53f64698c/CONTRIBUTING.md) for information on how to contribute to the schema.
 
 <!--
 

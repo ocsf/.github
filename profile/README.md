@@ -11,6 +11,10 @@ Refer to the white paper [Understanding the Open Cybersecurity Schema Framework]
 
 OCSF has a Steering Committee and Maintainers in addtion to Contributors.  Interested in contributing to the OCSF project?  Please check out the documentation on how in the [OCSF Contribution Guide](https://github.com/ocsf/ocsf-schema/blob/main/CONTRIBUTING.md) file.
 
+### SLACK WORKSPACE
+
+The project has a Slack workspace where contributors discuss issues and topics.  If you would like to be invited to join, send an email to info@ocsf.io.  Tell us about interests and introduce yourself to the group after you accept an invite.
+
 ### LICENSE
 
 OCSF is licensed under the Apache License 2.0.  Check out the LICENSE file to understand the requirements to use the artifacts of the project.

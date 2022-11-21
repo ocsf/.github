@@ -7,6 +7,10 @@ The framework is made up of a set of data types, an attribute dictionary, and th
 
 Refer to the white paper [Understanding the Open Cybersecurity Schema Framework](https://github.com/ocsf/ocsf-docs/blob/main/Understanding%20OCSF.pdf) for an introduction to the framework and schema.  A schema browser for the cybersecurity schema can be found at [OCSF Schema](https://schema.ocsf.io), where the user can easily navigate the schema, apply profiles and extensions, and browse the attributes, objects and event classes.
 
+### FAQ
+
+We are maintaining a list of [FAQs here](https://github.com/ocsf/ocsf-docs/tree/main/FAQs) 
+
 ### CONTRIBUTORS
 
 OCSF has a Steering Committee and Maintainers in addtion to Contributors.  Interested in contributing to the OCSF project?  Please check out the documentation on how in the [OCSF Contribution Guide](https://github.com/ocsf/ocsf-schema/blob/main/CONTRIBUTING.md) file.

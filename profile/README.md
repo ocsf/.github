@@ -15,6 +15,8 @@ We are maintaining a list of [FAQs here](https://github.com/ocsf/ocsf-docs/tree/
 
 OCSF has a Steering Committee and Maintainers in addtion to Contributors.  Interested in contributing to the OCSF project?  Please check out the documentation on how in the [OCSF Contribution Guide](https://github.com/ocsf/ocsf-schema/blob/main/CONTRIBUTING.md) file.
 
+[List of Contributors](https://github.com/ocsf/.github/profile/Contributors.md)
+
 ### SLACK WORKSPACE
 
 The project has a Slack workspace where contributors discuss issues and topics.  If you would like to be invited to join, send an email to info@ocsf.io.  Tell us about interests and introduce yourself to the group after you accept an invite.

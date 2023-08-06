@@ -1,4 +1,4 @@
-# Contributors
+# Contributing Organizations
 | Organization |
 | ------------ |
 Akamai

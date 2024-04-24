@@ -1,99 +1,150 @@
-# Contributing Organizations
+# Contributors
 | Organization |
 | ------------ |
+3OPS
+Accenture
 Akamai
+Amazon
 Anomali
+Apple
 Aqua Security
+Aquia
+Norwegian Labor Inspection Authority
 Arctic Wolf
+University of rizona
 Arklay
 Atlassian
+AT&T
+IBM
 Autodesk
-Aviz
-AWS
-Barracuda Networks
+Automax
+Avalor
+Aviz Networks
+Axiad
+Barracuda
 Bestgate Engineering
+Beyond Identity
+Block
 Blue Cycle
-Blue Voyant
-Bosch
+BlueVoyant
+blyx
+Bricklayer AI
 Broadcom
+IBM
 Cargill
+Carnegie Melon CERT
 Cisco
+Cloud Software Group
 CloudFabrix
 Cloudflare
 Comcast
-ContiNube 
+ComplianceCow
 Cornell University
 Crash Override
 Cribl
+Crogl
 CrowdStrike
 Crystal Matrix Software
-Cyber Sainik
+Canadian Centre for Cyber Security
+CyberActive
 CyberArk
+Cyber Sanik
 Cybersixgill
+Cyware
+Darktrace
+Databahn
 Databricks
-Defense Intelligence Agency (DIA)
+Decathlon
+Deepwatch
 Deloitte
 Devo
-Devoteam Revolve
-DTEX
-Dynatrace
+Disney
+DNIF
+DoDIIS
+DTEX Systems
+Duo Security
+AI EdgeLabs
 Elastic
 Elysium Analytics
 Ermetic
 eSentire
 F5
+Grab
 Grafana
-HiBob
-HII Mission Technologies
+Hi Bob
 Hunters
-IBM
+Bosch
+Infopercept
+Infosys
+Innotac
+Interpublic Group
 Intuit
-Iron Net
 iSenpai
-Johns Hopkins APL
+ITV
+Jamf
+Johns Hopkins Applied Physics Laboratory
 JupiterOne
+Keos Technology
 KKR
 Kyndryl
 Lacework
 Laminar Security
+Leidos
 LimaCharlie
-Malwarebytes
-Metric Stream
+MalwareBytes
+ManTech
+Mekanoid Corporation
+MetricStream
+Metron Security
 Microsoft
 MITRE
 Monad
-Net Scout
+MongoDB
+NETSCOUT
 Netskope
+Networkology
+Nokia
 Northeastern University
 NowSecure
 NXLog
+OISF
 Okta
 OLX
 Orca Security
 OSRS Group
-OwnBackup
+Own Company
 Palo Alto Networks
+Palosade
+Panther
 Planned Systems International
 Praxis Engineering
 Priam Cyber AI
 PrimeOrbit
-Prowler
 PWC
 Qualys
-Query 
+QueryAI
 Rapid7
-Red Bear IT
+RedBear
+Red Canary
+Reddit
+Red Panda
+Devoteam Revolve
 Ripjar
-Rooted Insihts
-SailPoint
+Rooted Insights
+Sailpoint
 Salesforce
+Sandia National Laboratories
 SAS
+Scanner
+Secureworks
 Security Compass
 SecurityScorecard
 Securonix
 SeeMetrics
+Sekoia
 SentinelOne
 sFractal Consulting
+Sinko Sinko
 Skyscanner
 Snowflake
 SOC Prime
@@ -101,26 +152,33 @@ Sophos
 Southern Company
 Splunk
 Stellar Cyber
+Stripe
 Sumo Logic
 Swimlane
 Symmetry Systems
 Syncbak
+Synqly
 SysDig
 Tanium
+Tarsal
+Tech Mahindra
 Tenable
 Tenzir
-The University of Arizona
 Torq
 Trellix
 Trend Micro
+TUI
 University of Cincinatti
 Uptycs
 Vectra
+Veeam
 Venafi
 Verica
 Veriti
 Vipre
-VMware
+VMWare
 WithSecure
 Wiz
+ZeroFox
 Zscaler
+Zurich Services

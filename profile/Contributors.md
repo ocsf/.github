@@ -54,6 +54,7 @@ Cyware
 Darktrace
 Databahn
 Databricks
+Datadog
 Decathlon
 Deepwatch
 Deloitte

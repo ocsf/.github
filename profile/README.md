@@ -24,7 +24,7 @@ OCSF has a Steering Committee and Maintainers in addition to Contributors.  Inte
 
 ## Slack Workspace
 
-The project has a Slack workspace where contributors discuss issues and topics.  If you would like to be invited to join, create a new discussion with your request on the [OCSF Discussions page](https://github.com/orgs/ocsf/discussions).  Tell us about interests and introduce yourself to the group after you accept an invite.
+The project has a Slack workspace where contributors discuss issues and topics.  If you would like to be invited to join, create a new discussion with your request on the [OCSF Discussions page](https://github.com/orgs/ocsf/discussions) &mdash; please use the "Slack Workspace Requests" category.  Tell us about interests and introduce yourself to the group after you accept an invite.
 
 ## License
 

@@ -3,19 +3,17 @@
 | ------------ |
 3OPS
 Accenture
+AI EdgeLabs
 Akamai
 Amazon
 Anomali
 Apple
 Aqua Security
 Aquia
-Norwegian Labor Inspection Authority
 Arctic Wolf
-University of rizona
 Arklay
-Atlassian
 AT&T
-IBM
+Atlassian
 Autodesk
 Automax
 Avalor
@@ -28,27 +26,28 @@ Block
 Blue Cycle
 BlueVoyant
 blyx
+Bosch
 Bricklayer AI
 Broadcom
-IBM
+Canadian Centre for Cyber Security
 Cargill
-Carnegie Melon CERT
+Carnegie Mellon CERT
 Cisco
 Cloud Software Group
 CloudFabrix
 Cloudflare
 Comcast
 ComplianceCow
+Corelight
 Cornell University
 Crash Override
 Cribl
 Crogl
 CrowdStrike
 Crystal Matrix Software
-Canadian Centre for Cyber Security
+Cyber Sainik
 CyberActive
 CyberArk
-Cyber Sanik
 Cybersixgill
 Cyware
 Darktrace
@@ -59,12 +58,12 @@ Decathlon
 Deepwatch
 Deloitte
 Devo
+Devoteam Revolve
 Disney
 DNIF
 DoDIIS
 DTEX Systems
 Duo Security
-AI EdgeLabs
 Elastic
 Elysium Analytics
 Ermetic
@@ -75,7 +74,7 @@ Grab
 Grafana
 Hi Bob
 Hunters
-Bosch
+IBM
 Infopercept
 Infosys
 Innotac
@@ -107,6 +106,7 @@ Netskope
 Networkology
 Nokia
 Northeastern University
+Norwegian Labor Inspection Authority
 NowSecure
 NXLog
 OISF
@@ -127,11 +127,10 @@ PWC
 Qualys
 QueryAI
 Rapid7
-RedBear
 Red Canary
-Reddit
 Red Panda
-Devoteam Revolve
+RedBear
+Reddit
 Ripjar
 Rooted Insights
 Sailpoint
@@ -171,7 +170,8 @@ Torq
 Trellix
 Trend Micro
 TUI
-University of Cincinatti
+University of Arizona
+University of Cincinnati
 Uptycs
 Vectra
 Veeam

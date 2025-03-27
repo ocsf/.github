@@ -29,6 +29,7 @@ blyx
 Bosch
 Bricklayer AI
 Broadcom
+ByteJams B.V.
 Canadian Centre for Cyber Security
 Cargill
 Carnegie Mellon CERT

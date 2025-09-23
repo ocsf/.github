@@ -14,7 +14,7 @@ November 19, 2024 is a milestone in the continued progress of the OCSF consortiu
 
 ## FAQ
 
-We are maintaining a list of [FAQs here](https://github.com/ocsf/ocsf-docs/tree/main/FAQs).
+We are maintaining a list of [FAQs here](https://github.com/ocsf/ocsf-docs/tree/main/faqs).
 
 ## Contributors
 

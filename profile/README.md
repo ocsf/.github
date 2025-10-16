@@ -6,7 +6,7 @@ The Open Cybersecurity Schema Framework is an open-source project, delivering an
 
 The framework is made up of a set of data types, an attribute dictionary, and the taxonomy. It is not restricted to the cybersecurity domain nor to events, however the initial focus of the framework has been a schema for cybersecurity events.  OCSF is agnostic to storage format, data collection and ETL processes.  The core schema for cybersecurity events is intended to be agnostic to implementations.  The schema framework definition files and the resulting normative schema are written as JSON.
 
-Refer to the white paper [Understanding the Open Cybersecurity Schema Framework](https://github.com/ocsf/ocsf-docs/blob/main/Understanding%20OCSF.pdf) for an introduction to the framework and schema.  A schema browser for the cybersecurity schema can be found at [OCSF Schema](https://schema.ocsf.io), where the user can easily navigate the schema, apply profiles and extensions, and browse the attributes, objects and event classes.
+Refer to the white paper [Understanding the Open Cybersecurity Schema Framework](https://github.com/ocsf/ocsf-docs/blob/main/overview/understanding-ocsf.md) for an introduction to the framework and schema.  A schema browser for the cybersecurity schema can be found at [OCSF Schema](https://schema.ocsf.io), where the user can easily navigate the schema, apply profiles and extensions, and browse the attributes, objects and event classes.
 
 ### OCSF Joins the Linux Foundation
 

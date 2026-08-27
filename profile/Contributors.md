@@ -2,6 +2,7 @@
 | Organization |
 | ------------ |
 3OPS
+7AI
 Accenture
 AI EdgeLabs
 Akamai

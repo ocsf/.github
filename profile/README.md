@@ -20,7 +20,9 @@ We are maintaining a list of [FAQs here](https://github.com/ocsf/ocsf-docs/tree/
 
 OCSF has a Steering Committee and Maintainers in addition to Contributors. Interested in contributing to the OCSF project?  Please check out the documentation on how in the [OCSF Contribution Guide](https://github.com/ocsf/ocsf-schema/blob/main/CONTRIBUTING.md) file.
 
-[List of Contributing Organizations](https://github.com/ocsf/.github/blob/main/profile/Contributors.md)
+- [Steering Committee](https://github.com/ocsf/governance/blob/main/SteeringCommittee.md)
+- [Maintainers](https://github.com/ocsf/governance/blob/main/Maintainers.md)
+- [Contributing Organizations](https://github.com/ocsf/.github/blob/main/profile/Contributors.md)
 
 ## Slack Workspace
 
